@@ -22,7 +22,7 @@ Welcome to my Minimalist Hyprland Rice configuration! This setup is designed for
 1. Clone this repository:
     ```bash
     git clone https://github.com/miroshantoshan/Minimalist-Dots
-    cd Invincible-Dots
+    cd Minimalist-Dots
     ```
 
 2. Install the required dependencies:

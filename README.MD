@@ -42,4 +42,4 @@ Welcome to my Minimalist Hyprland Rice configuration! This setup is designed for
 
 You can customize the configuration files in the `~/.config` directory to suit your preferences.
 
-Enjoy your Minimalist Hyprland rice!
+Enjoy your Minimalist pretty Hyprland rice!

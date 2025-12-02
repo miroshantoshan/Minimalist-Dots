@@ -44,7 +44,7 @@ border-radius: 20px;
 
 #entry:selected {
 background-color: @color10;
-border-radius: 15px;
+border-radius: 16px;
 
 }
 

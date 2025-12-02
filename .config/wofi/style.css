@@ -1,0 +1,51 @@
+@import url('/home/hacker/.cache/wal/colors-waybar.css');
+
+window {
+margin: 0px;
+border: 0px solid @color0 ;
+background-color: @color10;
+
+}
+
+#input {
+margin: 5px;
+border: none;
+color: @color1;
+background-color: @color7;
+border-radius: 20px;
+}
+
+#inner-box {
+margin: 5px;
+border: none;
+background-color: @color0;
+border-radius: 20px;
+}
+
+#outer-box {
+margin: 5px;
+border: none;
+background-color: @color0;
+
+}
+
+#scroll {
+margin: 0px;
+border: none;
+border-radius: 20px;
+}
+
+#text {
+margin: 5px;
+border: none;
+color: @color7;
+border-radius: 20px;
+}
+
+#entry:selected {
+background-color: @color10;
+border-radius: 15px;
+
+}
+
+

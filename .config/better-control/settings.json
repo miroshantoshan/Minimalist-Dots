@@ -1,0 +1,18 @@
+{
+    "visibility": {},
+    "positions": {},
+    "usbguard_hidden_devices": [],
+    "language": "ru",
+    "vertical_tabs": false,
+    "vertical_tabs_icon_only": false,
+    "tab_order": [
+        "Volume",
+        "Wi-Fi",
+        "Bluetooth",
+        "Battery",
+        "Display",
+        "Power",
+        "Autostart",
+        "USBGuard"
+    ]
+}

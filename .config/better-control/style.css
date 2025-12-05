@@ -1,0 +1,51 @@
+* {
+    font-family: "Inter", "Noto Sans", Sans;
+    color: #e6e6e6;
+}
+
+/* окно */
+window {
+    background-color: #1c1c25;
+    border-radius: 22px;
+    padding: 18px;
+}
+
+/* плитки */
+.tile,
+.card {
+    background-color: #2a2a37;
+    border-radius: 16px;
+    padding: 18px;
+    margin: 8px;
+    transition: 0.2s;
+}
+
+.tile:hover,
+.card:hover {
+    background-color: #343444;
+}
+
+/* активное / выбранное */
+.tile:active,
+.card:active,
+.tile:selected,
+.card:selected {
+    background-color: #44445a;
+}
+
+/* кнопки */
+button {
+    background-color: #2a2a37;
+    border-radius: 12px;
+    padding: 10px;
+}
+
+button:hover {
+    background-color: #343444;
+}
+
+/* переключатели */
+switch {
+    background-color: #363648;
+    border-radius: 12px;
+}

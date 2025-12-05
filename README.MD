@@ -36,7 +36,8 @@ Welcome to my Minimalist Hyprland Rice configuration! This setup is designed for
     cp -r .config/* ~/.config/
     ```
 
-4. Restart your session and enjoy your new setup!
+
+5. Restart your session and enjoy your new setup!
 
 ## Customization
 

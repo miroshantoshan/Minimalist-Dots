@@ -35,6 +35,10 @@ Welcome to my Minimalist Hyprland Rice configuration! This setup is designed for
     ```bash
     cp -r .config/* ~/.config/
     ```
+4. Make sure you to change the 'YOUR_USERNAME' in the first stroke in the wofi configuration in **/.config/wofi/style.css**, like:
+    ```bash
+    @import url('/home/miroshantoshan(here your username)/.cache/wal/colors-waybar.css');
+    ```
 
 5. Restart your session and enjoy your new setup!
 
